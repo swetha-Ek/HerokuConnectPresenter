@@ -1,7 +1,7 @@
 {
   "name": "Presenter App",
   "description": "Heroku Connect Sample App - Presenters",
-  "repository": "https://github.com/ssshah5/HerokuConnectPresenter",
+  "repository": "https://github.com/swetha-Ek/HerokuConnectPresenter",
   "success_url": "/",
   "env": {
     "PGSSLMODE": {
